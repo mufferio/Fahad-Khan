@@ -12,4 +12,7 @@ Passionate builder and leader in software development, AI engineering, and cyber
   <a href="mailto:khan.fsadiq05@gmail.com" title="Message me on my business email!">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="mailto:fsadiq.khan@mail.utoronto.ca" title="Message me on my school email!">
+    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
 </p>
