@@ -21,8 +21,13 @@ Passionate builder and leader in software development, AI engineering, and cyber
 
 ### 🐱‍👤 Languages and Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img align="left" alt="Go" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<br clear="left"/>
+<p align="left">
+  <img alt="Python" height="40px" style="padding-right:10px;" 
+       src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img alt="C#" height="40px" style="padding-right:10px;" 
+       src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img alt="Go" height="40px" style="padding-right:10px;" 
+       src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="JavaScript" height="40px" style="padding-right:10px;" 
+       src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
