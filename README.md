@@ -31,3 +31,6 @@ Passionate builder and leader in software development, AI engineering, and cyber
   <img alt="JavaScript" height="40px" style="padding-right:10px;" 
        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </p>
+
+### 👁 Istina — Coming Soon
+*A new way to ensure bias-free news.*
