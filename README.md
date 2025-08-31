@@ -9,4 +9,7 @@ Passionate builder and leader in software development, AI engineering, and cyber
     <img alt="LinkedIn" title="Follow my LinkedIn!" 
          src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:khan.fsadiq05@gmail.com" title="Message me on my business email!">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
